@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"./apishodan"
+	"github.com/melbadry9/enumsho/apishodan"
 )
 
 func main() {
